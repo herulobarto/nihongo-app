@@ -1,1 +1,2 @@
 pykakasi==2.2.1
+tkinter pandas pykakasi
